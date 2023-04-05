@@ -15,15 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\Desktop\github_code\HJ_crypto-master\HJ_crypto-master\HJ_crypto\HJ_crypto\DRBG.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\github_code\HJ_crypto-master\HJ_crypto-master\HJ_crypto\HJ_crypto\Entropy.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\github_code\HJ_crypto-master\HJ_crypto-master\HJ_crypto\HJ_crypto\HJ_crypto.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
     <ClInclude Include="SHA-2 core.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>

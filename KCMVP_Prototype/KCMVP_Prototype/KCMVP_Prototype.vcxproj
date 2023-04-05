@@ -139,9 +139,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\Desktop\github_code\HJ_crypto-master\HJ_crypto-master\HJ_crypto\HJ_crypto\DRBG.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\github_code\HJ_crypto-master\HJ_crypto-master\HJ_crypto\HJ_crypto\Entropy.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\github_code\HJ_crypto-master\HJ_crypto-master\HJ_crypto\HJ_crypto\HJ_crypto.h" />
     <ClInclude Include="DRBG.h" />
     <ClInclude Include="Entropy.h" />
     <ClInclude Include="hash.h" />
